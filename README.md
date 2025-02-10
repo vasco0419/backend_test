@@ -50,5 +50,6 @@ bcryptjs (v2.4) – Encrypts user passwords for security.
 4. Database Structure
 The system uses MySQL (v8) to establish relationships between article posters and comment posters while enabling full CRUD (Create, Read, Update, Delete) operations.
 
-I deployed the project on next address.
+About the test, I deployed the project on next address. You can see some test blogs there and can check there:
+167.88.166.21.3003
 
